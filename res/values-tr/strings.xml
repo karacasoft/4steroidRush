@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+    
+    <string name="start_game">Oyunu Başlat</string>
+    <string name="str_hold_to_continue">BURADAN DEVAM ET</string>
+	<string name="str_level">SEVIYE </string>
+	<string name="str_score">PUAN:</string>
+	<string name="str_distance">UZAKLIK:</string>
+	<string name="str_score_on_list">Puan:</string>
+	<string name="str_distance_on_list">Uzaklık:</string>
+	<string name="str_combined_score">Toplam Puan:</string>
+	<string name="str_statistics">İstatistikler</string>
+	<string name="str_high_scores">Yerel Yüksek Puanlar</string>
+	<string name="str_global_top_10">Online İlk 10</string>
+	<string name="str_music_on">Müzik Açık</string>
+	<string name="str_sound_on">Sesler Açık</string>
+	<string name="str_type_nickname" tools:ignore="TypographyEllipsis">Buraya nickname\'inizi yazın...</string>
+    <string name="str_acceptance">Puanlarımı Asteroid Rush Online İlk 10 listesine yukarıda yazdığım isim ile gönder.</string>
+    <string name="str_err_no_connection">Puan gönderilemedi. Aktif bağlantı yok.</string>
+    
+</resources>

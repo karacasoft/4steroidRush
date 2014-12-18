@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/text_score_so_far"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Total Score Gained" />
+
+    <TextView
+        android:id="@+id/text_distance_so_far"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Total Distance Travelled" />
+
+    <TextView
+        android:id="@+id/text_asteroids_destroyed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="# of Asteroids Destroyed" />
+
+    <TextView
+        android:id="@+id/text_bullets_fired"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="# of Bullets Fired" />
+
+    <TextView
+        android:id="@+id/text_bullets_hit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="# of Bullets Hit" />
+
+    <TextView
+        android:id="@+id/text_bullets_missed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="# of Bullets Missed" />
+
+    <TextView
+        android:id="@+id/text_death_counter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Died # Times" />
+
+</LinearLayout>

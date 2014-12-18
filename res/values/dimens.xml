@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">4dp</dimen>
+    <dimen name="activity_vertical_margin">4dp</dimen>
+    <integer name="standard_bullet_height">16</integer>
+    <integer name="standard_bullet_width">6</integer>
+    <integer name="standard_ship_width">12</integer>
+    <integer name="standard_ship_height">24</integer>
+    <integer name="standard_asteroid_width">48</integer>
+    <integer name="standard_asteroid_height">48</integer>
+	<integer name="standard_score_text_size">10</integer>
+	<integer name="standard_level_indicator_text_size">15</integer>
+	<integer name="standard_exit_button_width">100</integer>
+	<integer name="standard_exit_button_height">100</integer>
+	<integer name="standard_weapon_damage_upgrade_button_width">50</integer>
+	<integer name="standard_weapon_damage_upgrade_button_height">50</integer>
+	<integer name="standard_weapon_type_upgrade_button_width">50</integer>
+	<integer name="standard_weapon_type_upgrade_button_height">50</integer>
+	<integer name="standard_restart_game_button_width">85</integer>
+	<integer name="standard_restart_game_button_height">42</integer>
+	<integer name="standard_share_on_facebook_button_width_and_height">50</integer>
+	<integer name="standard_share_on_twitter_button_width_and_height">50</integer>
+</resources>
